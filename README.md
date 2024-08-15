@@ -4,10 +4,10 @@
 Fashion Forward Mall has observed fluctuating foot traffic and inconsistent sales patterns across its various stores. The mall management wants to understand the factors driving these fluctuations to enhance customer experience and optimize store performance. Key objectives include identifying peak shopping times, understanding customer preferences, and determining the impact of marketing campaigns and store promotions on sales.
 
 ## OBJECTIVES
-1.      Analyze foot traffic patterns to identify peak shopping hours and days.
-2.      Determine customer preferences in terms of store types (e.g., apparel, electronics, food).
-3.      Evaluate the effectiveness of marketing campaigns and promotions on sales.
-4.      Provide actionable insights to improve customer experience and boost overall sales.
+1. Analyze foot traffic patterns to identify peak shopping hours and days.
+2. Determine customer preferences in terms of store types (e.g., apparel, electronics, food).
+3. Evaluate the effectiveness of marketing campaigns and promotions on sales.
+4. Provide actionable insights to improve customer experience and boost overall sales.
 
 **Research Questions:**
 1.	What are the peak shopping hours and days at Fashion Forward Mall?
