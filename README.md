@@ -27,9 +27,9 @@ TITE is a growing retailer specializing in electronic gadgets and accessories. R
 -	Propose ways to optimize discount strategies.
 
 ## DASHBOARD
-<img src="PowerBI/Sales performance dash.png">
-<img src="PowerBI/Sales performance dash1.png">
-<img src="PowerBI/Sales performance dash2.png">
+<img src="Visualization/FashionForward.png">
+<img src="Visualization/FashionForward1.png">
+
 
 ## TECH STACK: 
 - PowerBI
